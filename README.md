@@ -1,5 +1,14 @@
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Sejal%20Bhupal&fontSize=40&fontAlignY=35&desc=From%20Algorithms%20to%20Analytics&descAlignY=55&descAlign=50"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sejal Bhupal</h1>
-<h3 align="center">🚀 From Algorithms to Analytics</h3>
+
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=DSA+%7C+Data+Science;Problem+Solver;Building+Projects;Always+Learning+🚀" />
+</p>
 
 <p align="center">
   💻 Computer Engineering Student | 📊 Data Science Enthusiast | ⚡ Problem Solver
@@ -17,8 +26,8 @@
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -66,7 +75,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sejal-bhupal/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href=" https://www.linkedin.com/in/sejal-bhupal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sejalbhupal15@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 

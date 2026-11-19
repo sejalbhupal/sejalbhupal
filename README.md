@@ -1,34 +1,30 @@
-# 👩‍💻 Sejal Bhupal
-
- 
-
 <div align="center">
 
  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,75:312E81,100:0891B2&height=200&section=header&text=Sejal%20Bhupal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Software%20Development%20%7C%20Problem%20Solving&descAlignY=60&animation=fadeIn" width="100%" />
+# Sejal Bhupal
 
  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Data+Analyst;Building+Data-Driven+Solutions;Exploring+Software+Engineering;Turning+Ideas+Into+Reality" />
+### Computer Engineering Student | Aspiring Data Analyst
 
  
 
-<p>
-
-<a href="https://www.linkedin.com/in/sejal-bhupal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://github.com/sejalbhupal"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<a href="https://leetcode.com/u/sejal_bhupal"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-<a href="mailto:sejalbhupal15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</p>
+**Turning data into insights and ideas into practical solutions.**
 
  
 
-<img src="https://komarev.com/ghpvc/?username=sejalbhupal&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-bhupal)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sejalbhupal)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sejal_bhupal)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalbhupal15@gmail.com)
+
+ 
+
+![Profile Views](https://komarev.com/ghpvc/?username=sejalbhupal&label=Profile%20Views&color=0e75b6&style=flat-square)
 
  
 
@@ -40,177 +36,95 @@
 
  
 
-## 🧭 Navigation
+## 👋 About Me
 
  
 
-[About](#-about-me) • [Skills](#-technology-stack) • [Projects](#-featured-projects) • [Experience](#-experience) • [Certifications](#-certifications--learning) • [Achievements](#-achievements) • [Statistics](#-github-statistics) • [Connect](#-lets-connect)
+Computer Engineering undergraduate at **St. Vincent Pallotti College of Engineering & Technology, Nagpur (2023–2027)**, interested in **Data Analytics, Business Intelligence, and Software Development**.
 
  
 
----
+- 📊 Interested in turning raw data into useful insights and clear dashboards.
+
+- 🐍 Working with Python, Pandas, SQL, and data visualization.
+
+- 💻 Building a foundation in C++, DSA, and Object-Oriented Programming.
+
+- 🧩 Developed projects involving analytics, dashboards, and software applications.
+
+- ☁️ Completed AWS Cloud Practitioner learning through Udemy.
+
+- 🎯 Open to internships, learning opportunities, and meaningful collaborations.
 
  
 
-## 👩‍💻 About Me
+## 🌐 Socials
 
  
 
-I'm a Computer Engineering undergraduate at **St. Vincent Pallotti College of Engineering & Technology, Nagpur (2023–2027)**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sejal_Bhupal-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sejal-bhupal)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sejalbhupal-181717?style=flat-square&logo=github)](https://github.com/sejalbhupal)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sejal_bhupal)
+
+[![Email](https://img.shields.io/badge/Gmail-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sejalbhupal15@gmail.com)
 
  
 
-I enjoy working with data, developing practical software solutions, and solving problems through technology.
+## 💻 Tech Stack
 
  
 
-- 📊 Interested in Data Analytics and Business Intelligence.
-
-- 💻 Working with Python, SQL, C++, and data visualization tools.
-
-- 🧠 Practicing Data Structures and Algorithms.
-
-- 📈 Exploring dashboard development and predictive analytics.
-
-- ☁️ Learning cloud technologies and software development.
-
-- 🎯 Looking for opportunities to apply my technical skills to real-world problems.
+**Programming & Query Languages**
 
  
 
-<details>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<summary><b>✨ More about my interests</b></summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
- 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Exploratory Data Analysis and data storytelling.
-
-- Business intelligence and dashboard development.
-
-- Machine learning fundamentals.
-
-- Full-stack application development.
-
-- Competitive programming and problem-solving.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
  
 
-</details>
+**Data Analytics & Visualization**
 
  
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
  
 
-## ⚡ Quick Overview
+**Web, Databases & Tools**
 
  
 
-| 🎓 Education | 📊 Primary Interest | 💻 Development |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-|:---:|:---:|:---:|
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| B.Tech Computer Engineering | Data Analytics | Software Development |
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-| 2023–2027 | Business Intelligence | C++ / Python |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
- 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| 🧩 Problem Solving | ☁️ Cloud Learning | 🤝 Opportunities |
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-|:---:|:---:|:---:|
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-| 150+ Problems | AWS Cloud Practitioner Learning | Internships |
-
-| LeetCode & GFG | Cloud Fundamentals | Collaborations |
-
- 
-
----
-
- 
-
-## 🛠️ Technology Stack
-
- 
-
-### Programming Languages
-
- 
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
-
- 
-
-### Data Analytics & Visualization
-
- 
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
- 
-
-### Web Development
-
- 
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" />
-
- 
-
-### Tools & Platforms
-
- 
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postgres" />
-
- 
-
-<details>
-
-<summary><b>📚 Explore my core competencies</b></summary>
-
- 
-
-| Category | Technologies |
-
-|---|---|
-
-| Programming | C++, Python, Java, SQL |
-
-| Data Analysis | Pandas, NumPy, Matplotlib, EDA |
-
-| Visualization | Power BI, Tableau, Excel |
-
-| Web Development | HTML, CSS, JavaScript, React |
-
-| Backend | Node.js, FastAPI |
-
-| Database | MySQL, PostgreSQL |
-
-| Fundamentals | DSA, OOP, DBMS, OS, CN |
-
-| Cloud | AWS Fundamentals |
-
- 
-
-</details>
-
- 
-
----
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
  
 
@@ -218,193 +132,19 @@ I enjoy working with data, developing practical software solutions, and solving 
 
  
 
-<table>
+| Project | What I built |
 
-<tr>
+|---|---|
 
-<td width="50%" valign="top">
+| [Smart City Transit Optimizer](https://github.com/sejalbhupal/SmartCityTransitOptimizer) | Transit simulation using C++, DSA, Python, Pandas, and a Power BI dashboard. |
 
- 
+| [Healthcare Analytics Dashboard](https://github.com/sejalbhupal/healthcare-analytics-dashboard) | SQL and Power BI dashboard for patient flow, waiting times, and operational KPIs. |
 
-### 🚍 Smart City Transit Optimizer
+| [Sales Performance & Profitability Intelligence](https://github.com/sejalbhupal/Sales-Performance-and-Profitability-Intelligence) | Sales analysis dashboard with KPI cards, drill-through filters, and product/region insights. |
 
- 
+| [Civic AI — Grievance Management](https://github.com/aryankale316-oss/civic-ai) | Full-stack citizen complaint management system with classification and admin workflows. |
 
-**Tech:** C++, Python, Pandas, Power BI
-
- 
-
-- Developed a transit simulation using core DSA algorithms.
-
-- Processed 500+ trip logs.
-
-- Created a dashboard with route-wise KPIs.
-
-- Explored transit performance and optimization.
-
- 
-
-[🔗 View Repository](https://github.com/sejalbhupal/SmartCityTransitOptimizer)
-
- 
-
-</td>
-
-<td width="50%" valign="top">
-
- 
-
-### 🏥 Healthcare Analytics Dashboard
-
- 
-
-**Tech:** SQL, Power BI, Data Analytics
-
- 
-
-- Analyzed healthcare operational data.
-
-- Created patient-flow visualizations.
-
-- Generated operational KPIs.
-
-- Identified workflow bottlenecks.
-
- 
-
-[🔗 View Repository](https://github.com/sejalbhupal/healthcare-analytics-dashboard)
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
- 
-
-### 📊 Sales Performance & Profitability Intelligence
-
- 
-
-**Tech:** Power BI, Data Analysis
-
- 
-
-- Analyzed 50,000+ sales records.
-
-- Created interactive KPI dashboards.
-
-- Used drill-through filters.
-
-- Identified product and regional performance trends.
-
- 
-
-[🔗 View Repository](https://github.com/sejalbhupal/Sales-Performance-and-Profitability-Intelligence)
-
- 
-
-</td>
-
-<td width="50%" valign="top">
-
- 
-
-### 🏙️ Civic AI — Grievance Management System
-
- 
-
-**Tech:** React, Node.js, PostgreSQL, ML
-
- 
-
-- Developed a citizen grievance management platform.
-
-- Implemented complaint classification.
-
-- Worked on department and priority assignment.
-
-- Integrated image-processing functionality.
-
- 
-
-[🔗 View Repository](https://github.com/aryankale316-oss/civic-ai)
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
- 
-
-### 🔄 Sorting Visualizer
-
- 
-
-**Tech:** HTML, CSS, JavaScript
-
- 
-
-- Visualized six sorting algorithms.
-
-- Implemented real-time animations.
-
-- Used color-coded comparisons.
-
-- Built an interactive learning interface.
-
- 
-
-[🔗 View Repository](https://github.com/sejalbhupal/Sorting_Visualizer)
-
- 
-
-</td>
-
-<td width="50%" valign="top">
-
- 
-
-### 💡 More Projects
-
- 
-
-I continuously explore new ideas involving:
-
- 
-
-- Data analytics and visualization.
-
-- Algorithm visualization.
-
-- Software development.
-
-- Automation and intelligent systems.
-
- 
-
-[🔗 Explore All Repositories](https://github.com/sejalbhupal?tab=repositories)
-
- 
-
-</td>
-
-</tr>
-
-</table>
-
- 
-
----
+| [Sorting Visualizer](https://github.com/sejalbhupal/Sorting_Visualizer) | Interactive visualization of Bubble, Selection, Insertion, Merge, Quick, and Heap Sort. |
 
  
 
@@ -412,63 +152,35 @@ I continuously explore new ideas involving:
 
  
 
-<details open>
+**Data Analytics Intern — Codec Technologies Pvt. Ltd.**  
 
-<summary><b>📊 Data Analytics Intern — Codec Technologies Pvt. Ltd.</b></summary>
-
- 
-
-**June 2026 · Remote**
-
- 
+*June 2026 · Remote*
 
 - Worked on healthcare predictive analytics.
 
 - Performed exploratory data analysis and feature engineering.
 
-- Developed dashboards for healthcare KPIs.
-
-- Explored prediction models for diabetes and heart-related conditions.
+- Developed dashboards to track healthcare KPIs and trends.
 
  
 
-</details>
+**Data Analyst Intern — NullClass**  
 
- 
+*May 2025 – June 2025 · Remote*
 
-<details>
+- Built a Twitter Analytics Dashboard using Python, Pandas, and Power BI.
 
-<summary><b>🐦 Data Analyst Intern — NullClass</b></summary>
-
- 
-
-**May 2025 – June 2025 · Remote**
-
- 
-
-- Developed a Twitter Analytics Dashboard.
-
-- Used Python, Pandas, and Power BI.
-
-- Analyzed engagement and tweet activity.
+- Analyzed user engagement, tweet activity, and trends.
 
 - Worked on data cleaning and reporting workflows.
 
  
 
-</details>
+## 📜 Certifications & Learning
 
  
 
----
-
- 
-
-## 🏆 Certifications & Learning
-
- 
-
-- AWS Cloud Practitioner Learning — Udemy
+- AWS Cloud Practitioner course — Udemy
 
 - Data Science & Analytics — HP
 
@@ -480,29 +192,19 @@ I continuously explore new ideas involving:
 
  
 
----
+## 🏆 Achievements
 
  
 
-## 🥇 Achievements
+- Solved **150+ coding problems** on LeetCode and GeeksforGeeks.
+
+- Secured **2nd Rank** in Bidcas, a department-level competitive event.
+
+- Participated in **Technex 2025 Hackathon**.
 
  
 
-- 💻 Solved 150+ coding problems on LeetCode and GeeksforGeeks.
-
-- 🥈 Secured 2nd Rank in Bidcas, a department-level competitive event.
-
-- 🚀 Participated in Technex 2025 Hackathon.
-
-- 📚 Continuously learning new technologies and strengthening problem-solving skills.
-
- 
-
----
-
- 
-
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
  
 
@@ -510,27 +212,17 @@ I continuously explore new ideas involving:
 
  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sejalbhupal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sejalbhupal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Sejal's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalbhupal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages" />
 
  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalbhupal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
- 
-
-<br/>
-
- 
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sejalbhupal&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sejalbhupal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
  
 
 </div>
-
- 
-
----
 
  
 
@@ -542,7 +234,23 @@ I continuously explore new ideas involving:
 
  
 
-<img src="https://github-profile-trophy.vercel.app/?username=sejalbhupal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sejalbhupal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub trophies" />
+
+ 
+
+</div>
+
+ 
+
+## 📈 Contribution Activity
+
+ 
+
+<div align="center">
+
+ 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalbhupal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 
  
 
@@ -554,59 +262,15 @@ I continuously explore new ideas involving:
 
  
 
-## 📊 Contribution Activity
-
- 
-
 <div align="center">
 
  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalbhupal&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+**Thanks for visiting my profile!**
 
  
 
-</div>
-
- 
-
----
-
- 
-
-## 🤝 Let's Connect
-
- 
-
-<div align="center">
-
- 
-
-### Have an idea? Let's build something meaningful.
-
- 
-
-I'm interested in learning, collaborating, and exploring opportunities in Data Analytics and Software Development.
-
- 
-
-<a href="https://www.linkedin.com/in/sejal-bhupal"><img src="https://img.shields.io/badge/LinkedIn-Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-
-<a href="mailto:sejalbhupal15@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<a href="https://github.com/sejalbhupal"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" /></a>
-
- 
-
-<br/><br/>
-
- 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:020617&height=120&section=footer" />
-
- 
-
-**"Turning data into insights and ideas into solutions."**
+*Always learning. Always building. Always improving.*
 
  
 
